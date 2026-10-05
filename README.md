@@ -3,8 +3,9 @@
 
 A dark, atmospheric theme for [Omarchy](https://omarchy.org/) inspired by the contrast between warm sunlight and deep blue night skies. Solaris combines muted cream foregrounds with cool navy backgrounds, blue accents, and warm red-orange ANSI colors for a cinematic, understated desktop.
 
-[**Solaris preview**](https://github.com/ryx9/omarchy-solaris/blob/main/preview.png) ([image](https://github.com/ryx9/omarchy-solaris/raw/main/preview.png))
 
+
+[**Solaris preview**](./preview.png) ([image](./preview.png))
 ## Wallpapers
 
 Solaris includes three wallpapers designed to complement the theme:
